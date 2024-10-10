@@ -1,0 +1,26 @@
+{
+    "103": {
+        "Employee ID": "103",
+        "Name": "Ahmed",
+        "Position": "Head of Marketing",
+        "Salary": 99999999.0,
+        "Department": "Central Marketing",
+        "Age": 34
+    },
+    "104": {
+        "Employee ID": "104",
+        "Name": "Eman",
+        "Position": "HR Manager",
+        "Salary": 226262.0,
+        "Department": "HR",
+        "Age": 25
+    },
+    "101": {
+        "Employee ID": "101",
+        "Name": "Alice",
+        "Position": "I.T",
+        "Salary": 33733.0,
+        "Department": "Production",
+        "Age": 30
+    }
+}
